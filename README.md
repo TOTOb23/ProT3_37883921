@@ -1,0 +1,2 @@
+Para ejecutar este proyecto se debe pegar las carpetas en un proyecto de CodeIgniter en XAMPP
+Hay un error de reconocimiento de archivo en usuario logueado pero volviendo para atras la pagina funciona igual
